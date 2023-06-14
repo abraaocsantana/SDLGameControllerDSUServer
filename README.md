@@ -1,6 +1,6 @@
 # SDL Game Controller DSU Server
 ---
-## DSU Server ( Cemuhook Motion Provider Protocol) for SDL gamepads
+## DSU Server ( [Cemuhook Motion Provider Protocol](https://github.com/v1993/cemuhook-protocol) ) for SDL gamepads
 ---
 
 This version was hacked together in an afternoon to provide motion controls to my **Steam Controller** when it's on BLE Mode.
