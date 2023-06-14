@@ -9,6 +9,9 @@ It may work with other devices supported by SDL2.
 
 (Nowadays, most software that supports SDU also supports motion directly through SDL, but when the input goes through Steam all motion data is thrown away :( )
 
+#### Quick info
+Server running on the default port 26760
+
 ### TODO
 * Add non-motion data, add real data to the controller info
 * Re-do and reorganize the C-like code that deals with SDL
